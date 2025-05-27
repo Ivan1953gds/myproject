@@ -4,7 +4,7 @@ pygame.init()
 color_back = (87,3,89)
 window = pygame.display.set_mode((500, 500))
 window.fill(color_back)
-
+#Создаём таймер
 clock = pygame.time.Clock()
 
 ##класс для прямоугольной области
